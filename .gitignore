@@ -1,0 +1,12 @@
+# Virual environment
+.fraud/
+
+# Environment variables
+.env 
+
+# Jupyter 
+.ipynb_checkpoints/ 
+
+# Data
+data/
+
